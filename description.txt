@@ -1,0 +1,7 @@
+addTask: This method adds a new task to the list with a description and category, initializing the completion status to false.
+viewTasks: This method iterates through the tasks and displays them, indicating whether they are completed.
+markCompleted: This method marks a task as completed based on its index.
+removeTask: This method removes a task from the list based on its index.
+saveToFile: This method saves all tasks to a specified file in a structured format.
+loadFromFile: This method loads tasks from a specified file, parsing each line to reconstruct the task list.
+filterByCategory: This method filters and displays tasks that belong to a specified category.
